@@ -5,6 +5,8 @@
 
 I love combining the worlds of logic, and creativity to make user friendly websites and applications.
 
-🎓 Graduated from Flatiron School Software Engineering Bootcamp
-
-# Languages and Tools
+- 🎓 Graduated from Flatiron School Software Engineering Bootcamp
+- 🌱 Learning anything I can get my hands on!
+- 👯 Always looking to collaborate
+<!-- - 📫 Let's connect 
+ -->
