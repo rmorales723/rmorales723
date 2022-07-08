@@ -8,5 +8,4 @@ I love combining the worlds of logic, and creativity to make user friendly websi
 - 🎓 Graduated from Flatiron School Software Engineering Bootcamp
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
-<!-- - 📫 Let's connect 
- -->
+- 📫 Let's connect 
